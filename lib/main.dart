@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:myportofolio_mobile/app_colors.dart';
 import 'package:myportofolio_mobile/menu.dart';
 
 void main() {
@@ -14,9 +15,13 @@ class MyApp extends StatelessWidget {
       title: 'MyPortfolio',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
-          seedColor: Colors.indigo,
-          secondary: Colors.amber[700],
+          seedColor: AppColors.ink,
+          primary: AppColors.ink,
+          onPrimary: Colors.white,
+          secondary: AppColors.accent,
         ),
+        // Latar halaman memakai warna krem yang sama dengan situs web.
+        scaffoldBackgroundColor: AppColors.paper,
         useMaterial3: true,
       ),
       home: MyHomePage(),
