@@ -1,4 +1,4 @@
-# myportofolio_mobile
+<!-- # myportofolio_mobile
 
 A new Flutter project.
 
@@ -14,4 +14,28 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+samples, guidance on mobile development, and a full API reference. -->
+# MyPortfolio Mobile — Marsya Rizka Aulia
+
+| | |
+|---|---|
+| **Course** | Platform-Based Programming (PBP) |
+| **NPM** | 2506537606 |
+| **Class** | PBP E |
+| **Faculty** | Faculty of Computer Science, Universitas Indonesia |
+| **Lecturer** | Daya Adianto, S.Kom., M.Kom. |
+
+## About the Project
+
+A personal portfolio mobile app featuring an organizational history, academic background, and completed projects, now built with Flutter as the mobile counterpart of my [Django portfolio website](https://github.com/msystemctrl/myportofolio).
+
+## Assignments & Reflections
+
+| No. | Topic | Answer |
+|---|---|---|
+| 1-6 | Web portfolio with Django | [Web portfolio repository](https://github.com/msystemctrl/myportofolio) |
+| 7 | Basic Flutter | [TUGAS7.md](/essay/Tugas7.md) |
+
+## Credits
+
+Individual project for the PBP course, Fasilkom UI.
